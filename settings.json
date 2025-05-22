@@ -6,7 +6,7 @@
   "WorkerName": "1313-VC",
   "MigratedSettings": true,
   "CPUSetting": {
-    "CPUHasher": "Hybrid AVX2",
+    "CPUHasher": "-a",
     "CPUThreads": 4,
     "AutoSetCPUAffinity": true,
     "MinimumHashTime": 1.75
